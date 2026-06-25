@@ -1,46 +1,45 @@
-# Hi, I'm Caesarqing 👋
+# Hi, I’m Caesarqing 👋
 
 > **Products are the tentacles of the mind.**  
-> Ideas should not stay trapped inside the skull. They should reach out, touch the world, and occasionally find out whether the world bites back.
+> Ideas shouldn’t just stay in your head—they should reach out, touch the world, and see if the world bites back.
 
 ## About Me
 
-### 🧱 **An Unprofessional Bricklayer, Forever Curious. _Explore._**
+A bricklayer who doesn’t stick to the rules, so I’m always curious (exploring)  
+All great systems ultimately come down to a single brick, a single wire, a single person, or a single payment point.
 
-All great systems eventually land on one brick, one wire, one person, and one painfully specific payment milestone.
+A blacksmith who loves to tinker, so I’m full of energy (passion)  
+While others fix things, I like to take them apart first, then weld them back together into a “new species” that barely works.
 
-### 🔥 **A Restless Blacksmith, Always Alive. _Passion._**
+A coder with nothing to lose, so I’m passionate about AI (creation).  
+I provide chaotic mental tentacles; it’s up to AI to untangle them—or join me in the madness.
 
-Other people fix things. I prefer taking them apart, welding the pieces together, and calling the result a “new species” if it still moves.
-
-### 🤖 **A Not-So-Impressive Coder, Therefore in Love with AI. _Create._**
-
-I provide chaotic thinking tentacles. AI helps untangle them — or loses its mind with me in a more computationally expensive way.
-
-### 🌌 **A Cyberpunk Poet Chasing Freedom, Always on the Road. _Endeavor._**
-
-Life is an open-world game. I am probably the player ignoring the main quest, unlocking side missions, and carrying a backpack full of suspicious materials.
+A cyberpunk poet in pursuit of freedom, so I’m always on the road (striving).  
+Life is a massive open-world game, and I’m probably that player who skips the main quest, chases side quests everywhere, and has a backpack full of weird materials.
 
 ## My Cyber Philosophy
 
-**Explore:** Curiosity is the fuel. I always want to know what happens if I stitch this thing to that thing.  
-**Passion:** Tinkering is a lifestyle. Explosions are just part of the process. Laughing through the chaos is the real output.  
-**Create:** I turn mental tentacles into products, reaching toward more people, more problems, and more possibilities.  
-**Endeavor:** I keep moving. The point is not only to reach the destination, but to make the road stranger, freer, and more interesting.
+**Exploration:** Curiosity is my fuel; I’m always wondering, “What would happen if I stitched this together with that?”  
+**Passion:** Messing around is my attitude toward life; explosions are just part of the process, and laughing until my abs hurt is the result.  
+**Creation:** I extend the tentacles in my brain into reality, using products to connect with more people, tackle more problems, and explore more possibilities.  
+**Dedication:** I’m always on the road. The goal isn’t just to reach the finish line, but to make the journey increasingly fun, increasingly absurd, and increasingly free.
 
-## What I'm Building
+## What I’m Working On
 
-- AI tools and AI-native products
-- Automation workflows
-- Code, product, and creative experiments
-- Things that look slightly off-track, but may eventually become useful
+- AI tools and products
+- Automated workflows
+- Code and creative experiments
+- Some things that might seem off-topic, but could be kind of interesting
 
 ## Welcome
 
-Welcome to my GitHub wasteland lab.
+Welcome to my GitHub Wasteland Lab!
 
-Here you may find half-built projects, strange experiments, and traces left behind by my tentacles touching things across the cyber wilderness.
+Here you’ll find all sorts of half-finished, weird and wonderful projects,  
+as well as the traces left behind after I’ve gone poking around with my tentacles.
 
-If you are also into AI, products, code, automation, or the endless search for a bit of freedom in the cyber age — feel free to Star, Issue, Fork, or just drop a message:
+If you’re also into AI, products, code, and automation,  
+or if you’re searching for a bit of freedom in the cyber age—  
+feel free to Star, open an Issue, Fork, or just drop me a line:
 
-> “Bro, this thing is weird. I like it.”
+> “Hey, this thing of yours is kind of interesting.”
