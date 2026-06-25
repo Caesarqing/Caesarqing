@@ -11,7 +11,7 @@ All great systems ultimately come down to a single brick, a single wire, a singl
 A blacksmith who loves to tinker, so I’m full of energy (passion)  
 While others fix things, I like to take them apart first, then weld them back together into a “new species” that barely works.
 
-A coder with nothing to lose, so I’m passionate about AI (creation).  
+A coder with no special skills, so I’m passionate about AI (creation).  
 I provide chaotic mental tentacles; it’s up to AI to untangle them—or join me in the madness.
 
 A cyberpunk poet in pursuit of freedom, so I’m always on the road (striving).  
